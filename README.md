@@ -2,9 +2,6 @@
 
 The **Banking System** is a user-friendly banking application created in C. It offers essential banking functionalities for both administrators and users, making it a robust and efficient tool for managing accounts and conducting transactions.
 
-## Repository Name Suggestion
-**'Banking-System`**
-
 ## Key Features
 - **View Customer Accounts:** Check details of registered customer accounts.
 - **Register New Accounts:** Add new customers to the system.
